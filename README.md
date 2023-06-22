@@ -1,4 +1,4 @@
-# 这是[fksj.icu](https://fksj.icu)的网站仓库！
+# 这是[方块世界群组](https://fksj.icu)的网站仓库！
 ## This is a website repository!
 [fksj.icu](https://fksj.icu/)
 
